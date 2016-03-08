@@ -1,6 +1,12 @@
 # river-crossing-dfa
 River Crossing problem. Solve using DFA. Cmsc 141 (Automata and Language Theory) Machine Problem 2
 
+
+To run use cmd:  
+```
+start mp2.exe "path/to/mp2.in"
+```
+
 MP2  
 Binibining Comsci Problems (Deterministic Finite Automata)  
 Intro:  
