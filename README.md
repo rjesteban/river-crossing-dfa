@@ -39,11 +39,14 @@ Submission checklist:
 1. State diagram  
 - printed or handwritten is ok  
 - you may submit this beforehand  
+
 2. Code  
 - uploaded to personal Google Drive shared with naenego@up.edu.ph, provide the link to your file in the form in [3]  
 - please include an executable (exe, sh, bat) with your code for easy checking  
+
 3. Solutions to provided inputs  
 - I will be giving input files (easy.in, hard.in) on Mar.1, for your program to process. You will submit the contents of the output to a Google Form which I will be providing later.  
+
 Submission deadline: 
 March 8, 2016 23:59  
 Things to consider:  
